@@ -13,8 +13,8 @@ Results
 Contributing
 License
 Installation
-To run this project, you need to have Python installed along with the following libraries:
 
+To run this project, you need to have Python installed along with the following libraries:
 NumPy
 Pandas
 Scikit-learn
